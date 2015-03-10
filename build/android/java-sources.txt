@@ -1,0 +1,7 @@
+"/Users/bassim/Documents/Titanium_Studio_Workspace/TeaSelectionCamera/build/android/gen/android/support/v7/appcompat/R.java"
+"/Users/bassim/Documents/Titanium_Studio_Workspace/TeaSelectionCamera/build/android/gen/com/example/teaselectioncamera/ApplicationStylesheet.java"
+"/Users/bassim/Documents/Titanium_Studio_Workspace/TeaSelectionCamera/build/android/gen/com/example/teaselectioncamera/R.java"
+"/Users/bassim/Documents/Titanium_Studio_Workspace/TeaSelectionCamera/build/android/gen/com/example/teaselectioncamera/TeaselectioncameraActivity.java"
+"/Users/bassim/Documents/Titanium_Studio_Workspace/TeaSelectionCamera/build/android/gen/com/example/teaselectioncamera/TeaselectioncameraAppInfo.java"
+"/Users/bassim/Documents/Titanium_Studio_Workspace/TeaSelectionCamera/build/android/gen/com/example/teaselectioncamera/TeaselectioncameraApplication.java"
+"/Users/bassim/Documents/Titanium_Studio_Workspace/TeaSelectionCamera/build/android/gen/ti/modules/titanium/ui/R.java"
