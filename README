@@ -3,3 +3,8 @@ Reviewer 1:
 This code runs successfuly. The 10 differnt color bands and approtiate pages are linked together. 
 The Camera Gadget was used successfully. There is a "show camera" button on the camera tab but when clicked nothing happens. 
 I think this might be beacuse the code would need to be linked to the camera for the specific device. Overall well done. 
+
+Reviewer 2: 
+
+Great work! Same issue with the "Show Camera" button. I noticed you chose the camera application which was 
+nice to see in action because I chose a different application. Overall the code is concise and successfull!
